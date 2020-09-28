@@ -1,19 +1,20 @@
 ### Olá 👋
 <img align="right" width="400" height="300" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif">
 
-:man_technologist: Trabalho remotamente como _Front-end Engineer_ na [Upnid](https://upnid.com), solução de pagamento para pequenos e médios empreendedores. <br/><br/>
-:blue_heart: Cofundador e _Tech Lead_ na [Fortini](https://fortini.org.br), ONG que realiza projetos sociais no âmbito esportivo e cultural em parceria com escolas públicas da região metropolitana de Belo Horizonte.
+<samp>:man_technologist: Trabalho remotamente como _Front-end Engineer_ na [Upnid](https://upnid.com), solução de pagamento para pequenos e médios empreendedores. <br/><br/>
+:blue_heart: Cofundador e _Tech Lead_ na [Fortini](https://fortini.org.br), ONG que realiza projetos sociais no âmbito esportivo e cultural em parceria com escolas públicas da região metropolitana de Belo Horizonte.</samp>
 
-<br/> :handshake: **_me encontre em:_**
+
+<br/> :handshake: <samp>**me encontre em:**</samp>
 <br/><br/>
 <a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="24" height="24"/></a>
 <a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" height="24"/></a>
 <!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
 
-<br/> :bulb: **_resolvendo problemas com:_**
+<br/> :bulb: <samp>**resolvendo problemas com:**</samp>
 <br/><br/>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="24" height="24"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="css3" width="24" height="24"/>
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="24" height="24"/>
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="24" height="24"/>
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="24" height="24"/>
 <br/>
 <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" title="React" width="24" height="24"/>
@@ -26,7 +27,7 @@
 <br/>
 
 
-<br/> :computer: **_setup:_**
+<br/> :computer: <samp>**setup:**</samp>
 <br/><br/>
 <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="windows" title="Windows 10 (Não me julgue rs)" width="24" height="24"/>
 <img src="https://www.mozilla.org/media/img/favicons/firefox/browser/developer/favicon-196x196.b8d17dd1dda2.png" alt="firefox" title="Firefox Developer Edition" width="23" height="24"/>
@@ -37,7 +38,7 @@
 <img src="https://cdn.svgporn.com/logos/todoist-icon.svg" alt="todoist" title="Todoist" width="24" height="24"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png" title="Spotify" alt="spotify" width="24" height="24"/>
 
-<br/> :gear: **_VS Code Settings:_**
+<br/> :gear: <samp>**VS Code Settings:**</samp>
 ```js
 ...
   "workbench.iconTheme": "material-icon-theme",
