@@ -8,8 +8,8 @@
 ## :handshake: <samp>Me encontre em:</samp>
 <a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" height="24"/></a>
-<br/>
 <!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
+<br/>
 
 ## :bulb: <samp>Resolvendo problemas com:</samp>
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="24" height="24"/>&nbsp;
@@ -37,6 +37,7 @@
 <img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="slack" title="Slack" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/todoist-icon.svg" alt="todoist" title="Todoist" width="24" height="24"/>&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png" title="Spotify" alt="spotify" width="24" height="24"/>&nbsp;
+
 <br/>
 
 ### :gear: <samp>VS Code Settings:</samp>
@@ -49,6 +50,8 @@
   "editor.rulers": [80],
 ...
 ```
+
+<br/>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=brunodesde1987&count_private=true&show_icons=true&hide=stars,contribs" alt="brpadilha" />
