@@ -6,25 +6,25 @@
 
 
 ## :handshake: <samp>Me encontre em:</samp>
-
 <a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" height="24"/></a>
+<br/>
 <!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
 
 ## :bulb: <samp>Resolvendo problemas com:</samp>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="24" height="24"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="24" height="24"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="24" height="24"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="24" height="24"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="24" height="24"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24"/>&nbsp;
 <br/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" title="React" width="24" height="24"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="angular" title="Angular" width="23" height="24"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js" width="24" height="24"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/cypress.svg" alt="cypress" title="Cypress" width="24" height="24"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/jest.svg" alt="jest" title="Jest" width="22" height="24"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="firebase" title="Firebase" width="24" height="24"/>&nbsp;
-<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="graphql" title="GraphQL" width="24" height="24"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="React" title="React" width="24" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="Angular" title="Angular" width="23" height="24"/>&nbsp;
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/cypress.svg" alt="Cypress" title="Cypress" width="24" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" title="Jest" width="22" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" title="Firebase" width="24" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" title="GraphQL" width="24" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="24" height="24"/>
 <br/>
-
 
 ## :computer: <samp>Ferramentas do dia-a-dia:</samp>
 <img src="https://cdn.svgporn.com/logos/microsoft-windows.svg" alt="windows" title="Windows 10 (Não me julgue rs)" width="24" height="24"/>&nbsp;
@@ -35,7 +35,6 @@
 <img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="slack" title="Slack" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/todoist-icon.svg" alt="todoist" title="Todoist" width="24" height="24"/>&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png" title="Spotify" alt="spotify" width="24" height="24"/>&nbsp;
-
 <br/>
 
 ### :gear: <samp>VS Code Settings:</samp>
