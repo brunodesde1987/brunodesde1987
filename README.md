@@ -21,9 +21,11 @@
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/cypress.svg" alt="Cypress" title="Cypress" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" title="Jest" width="22" height="24"/>&nbsp;
+<img src="https://testing-library.com/img/octopus-32x32.png" alt="Testing Library" title="Testing Library" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/firebase.svg" alt="Firebase" title="Firebase" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/graphql.svg" alt="GraphQL" title="GraphQL" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="24" height="24"/>
+
 <br/>
 
 ## :computer: <samp>Ferramentas do dia-a-dia:</samp>
