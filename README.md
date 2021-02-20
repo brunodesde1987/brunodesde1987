@@ -34,6 +34,7 @@
 <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vs code" title="VS Code" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/prettier.svg" alt="prettier" title="Prettier" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn" title="Yarn" width="24" height="24"/>&nbsp;
+<img src="https://cdn.svgporn.com/logos/npm.svg" alt="yarn" title="npm" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/slack-icon.svg" alt="slack" title="Slack" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/todoist-icon.svg" alt="todoist" title="Todoist" width="24" height="24"/>&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png" title="Spotify" alt="spotify" width="24" height="24"/>&nbsp;
