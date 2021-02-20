@@ -6,19 +6,19 @@
 
 
 ## :handshake: <samp>Me encontre em:</samp>
-<a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" alt="linkedin" width="24" height="24"/></a>
+<a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="linkedin" width="24" height="24"/></a>
 <!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
 <br/>
 
 ## :bulb: <samp>Resolvendo problemas com:</samp>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="24" height="24"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="24" height="24"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24"/>&nbsp;
 <br/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="React" title="React" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/angular-icon.svg" alt="Angular" title="Angular" width="23" height="24"/>&nbsp;
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/cypress.svg" alt="Cypress" title="Cypress" width="24" height="24"/>&nbsp;
 <img src="https://cdn.svgporn.com/logos/jest.svg" alt="Jest" title="Jest" width="22" height="24"/>&nbsp;
 <img src="https://testing-library.com/img/octopus-32x32.png" alt="Testing Library" title="Testing Library" width="24" height="24"/>&nbsp;
