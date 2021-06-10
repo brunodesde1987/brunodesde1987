@@ -1,8 +1,7 @@
 ### Olá 👋
 <img align="right" width="400" height="300" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif">
 
-<samp>:man_technologist: Trabalho remotamente como _Frontend Engineer_ na [Upnid](https://upnid.com), solução de pagamento para pequenos e médios empreendedores. <br/><br/>
-:blue_heart: Cofundador e _Tech Lead_ na [Fortini](https://fortini.org.br), ONG que promove o acesso ao esporte e cultura para crianças e adolescentes através de projetos sociais realizados em parceria com escolas públicas da região metropolitana de Belo Horizonte.</samp>
+<samp>:blue_heart: Cofundador e _Tech Lead_ na [Fortini](https://fortini.org.br), ONG que promove o acesso ao esporte e cultura para crianças e adolescentes através de projetos sociais realizados em parceria com escolas públicas da região metropolitana de Belo Horizonte.</samp>
 
 
 ## :handshake: <samp>Me encontre em:</samp>
