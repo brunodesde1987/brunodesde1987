@@ -4,11 +4,6 @@
 
 <samp>:blue_heart: Co-founder and tech lead at [Fortini](https://fortini.org.br), a Non-profit organization that promotes cultural and sporting activities to young students (8y and 16y) that are in a social vulnerability situation. All social projects are run in partnership with local public schools.</samp>
 
-
-### <samp>Find me:</samp>
-<a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="linkedin" width="24" height="24"/></a>
-<!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
 <br/>
 
 ### <samp>Main tools:</samp>
@@ -48,9 +43,15 @@
 ### <samp>Music:</samp>
 <a href="https://open.spotify.com/user/12146212113?si=546d87453c0e45cd" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/spotify-11-432546.png" title="Spotify" alt="spotify" width="24" height="24"/></a>&nbsp;
 
+
 <br/>
 
+### <samp>Find me:</samp>
+<a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="linkedin" width="24" height="24"/></a>
+<!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
 
+<br/>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=brunodesde1987&count_private=true&show_icons=true&hide=stars,contribs" alt="brpadilha" />
