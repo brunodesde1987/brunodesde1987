@@ -30,8 +30,11 @@
 ### <samp>VS Code Settings:</samp>
 ```js
 ...
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "Monokai",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.labelFormat": "short",
+  "breadcrumbs.enabled": true,
   "editor.fontFamily": "JetBrains Mono",
   "editor.fontLigatures": true,
   "editor.rulers": [80],
