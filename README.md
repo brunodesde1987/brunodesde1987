@@ -1,8 +1,8 @@
 ### Hello 👋
 
-<samp>👨🏽‍💻 I'm Bruno and I'm a Frontend Engineer. I'm passionate about solving problems through technology, and I have done it for 15 years.</samp>
+<samp>👨🏽‍💻 I'm Bruno and I'm a Frontend Engineer based in 🇧🇷. I'm passionate about solving problems through technology, and I have done it for 15 years.</samp>
 
-<samp>:blue_heart: Co-founder and tech lead at [Fortini](https://fortini.org.br), a Non-profit organization that promotes cultural and sporting activities to young students (8y and 16y) that are in a social vulnerability situation. All social projects are run in partnership with local public schools.</samp>
+<samp>:blue_heart: Co-founder and volunteer tech lead at [Fortini](https://fortini.org.br), a Non-profit organization that promotes cultural and sporting activities to young students (8y and 16y) that are in a social vulnerability situation. All social projects are run in partnership with local public schools.</samp>
 
 <br/>
 
