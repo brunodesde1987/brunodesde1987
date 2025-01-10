@@ -50,7 +50,7 @@
 <br/>
 
 ### <samp>Find me:</samp>
-<a href="https://www.twitter.com/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
+<a href="https://x.com/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" alt="twitter" width="24" height="24"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/brunodesde1987" target="_blank"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" alt="linkedin" width="24" height="24"/></a>
 <!--<a href="mailto:bruno@solutweb.com.br" target="_blank"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="react" width="16" height="12"/></a>-->
 
