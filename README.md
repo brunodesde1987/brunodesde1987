@@ -16,8 +16,6 @@
 
 <br/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=brunodesde1987&count_private=true&show_icons=true&hide=stars,contribs" alt="brpadilha" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunodesde1987&theme=monokai)
 
 ![ViewCount](https://views.whatilearened.today/views/github/brunodesde1987/brunodesde1987.svg)
